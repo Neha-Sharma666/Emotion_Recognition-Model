@@ -1,8 +1,10 @@
 #BHAAV AI--An Emotion Classifiaction Model
-🚀 Harnessing the Power of AI to Understand Human Emotions in Hindi Text
+
+🚀 Harnessing the Power of AI to Understand Human Emotions in Hindi Text.
+
 <img src="https://github.com/Neha-Sharma666/Emotion_Recognition-Model/blob/main/web1.jpg.png">
 
-Overview:
+#Overview:
 BHAAV AI  is an advanced emotion classification system built using IndicBERT and a custom MLP classifier to analyze and predict emotions from regional language text,Hindi in this case. The model is designed to capture the nuances of sentiment, enabling AI-driven applications that can understand human emotions effectively.
 
 🚀 Key Highlights:
@@ -11,12 +13,12 @@ BHAAV AI  is an advanced emotion classification system built using IndicBERT and
 ✔️ Optimized Performance: Fine-tuned with efficient training techniques for robust classification. 
 
 #📌 Technologies Used
-🔹 Programming Language: Python 
-🔹 Deep Learning Framework: PyTorch 
-🔹 Pretrained Model: IndicBERT (from Hugging Face) 
-🔹 Classifier: Multi-Layer Perceptron (MLP)
-🔹 Tokenizer: Hugging Face's AutoTokenizer
-🔹 Libraries: Transformers, Sklearn, Pandas, Matplotlib
+⏺️Programming Language: Python 
+⏺️Deep Learning Framework: PyTorch 
+⏺️Pretrained Model: IndicBERT (from Hugging Face) 
+⏺️Classifier: Multi-Layer Perceptron (MLP)
+⏺️Tokenizer: Hugging Face's AutoTokenizer
+⏺️Libraries: Transformers, Sklearn, Pandas, Matplotlib
 
 #📌 Model and Approach
 ->IndicBERT for Feature Extraction:
@@ -25,7 +27,7 @@ BHAAV AI  is an advanced emotion classification system built using IndicBERT and
 ->Multi-Layer Perceptron (MLP) Classifier
   The MLP model acts as the classifier in BHAAV AI  
 
-⚡ Future Enhancements
+#⚡ Future Enhancements
 ✅ Extend support for more Indian languages.
 ✅ Fine-tune IndicBERT further for better domain-specific accuracy.
 ✅ Deploy as a REST API for real-world applications.
